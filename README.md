@@ -79,7 +79,7 @@ Portal-Educacional/
 └── tsconfig.json
 
 # Clone o repositório
-git clone https://github.com/seuusuario/Portal-Educacional.git
+git clone https://github.com/melo-ivas/Portal-Educacional.git
 cd Portal-Educacional
 
 # Instale as dependências
