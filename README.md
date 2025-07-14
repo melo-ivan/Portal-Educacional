@@ -77,3 +77,20 @@ Portal-Educacional/
 ├── README.md
 ├── package.json
 └── tsconfig.json
+
+# Clone o repositório
+git clone https://github.com/seuusuario/Portal-Educacional.git
+cd Portal-Educacional
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run dev
+
+# Fork o projeto
+# Crie uma branch: git checkout -b minha-feature
+# Commit suas alterações: git commit -m 'feat: minha feature'
+# Envie para o repositório: git push origin minha-feature
+# Crie um Pull Request 🚀
+
